@@ -79,11 +79,12 @@ color: #309C5E;
 }*/
   
   @media (max-width: 500px){
-  /*  body {
+    body {
       background: url('./img/backgnd3s.png');
     }
-  */
     .mainPhrase{
+      padding-top: 20px;
+      padding-bottom: 20px;
       font-size: 35px;
     }
     .markets-img{
