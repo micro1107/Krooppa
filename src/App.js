@@ -45,15 +45,15 @@ function App() {
       </Row>
       */}
       <Row>
-        <Col xs={3} md={3}>
+        <Col xs={1} md={3}>
         </Col>
-        <Col xs={6} md={6}>
+        <Col xs={10} md={6}>
           <div className="device">
             <img className="device-img" src={phone} alt="device">
             </img>
           </div>
         </Col>
-        <Col xs={3} md={3}>
+        <Col xs={1} md={3}>
         </Col>
       </Row>
       <Row>

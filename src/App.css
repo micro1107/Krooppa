@@ -78,7 +78,7 @@ color: #309C5E;
   }
 }*/
   
-  @media (max-width: 380px){
+  @media (max-width: 500px){
     body {
       background: url('./img/backgnd3s.png');
     }
@@ -89,7 +89,6 @@ color: #309C5E;
       max-width: 60%;
       max-height: 60%;
     }
-
     .logo-img{
       max-width: 100%;
       max-height: 100%;
