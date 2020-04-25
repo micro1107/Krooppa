@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cab9738d13c26bb42a79c82c03318539",
+    "revision": "f391db3ae07448a05b36b915c01b0be3",
     "url": "/Krooppa/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Krooppa/static/css/2.22d6b5ec.chunk.css"
   },
   {
-    "revision": "f1a75809ddc84d32b773",
-    "url": "/Krooppa/static/css/main.519a88ba.chunk.css"
+    "revision": "f0c8c771a21a8654b6b9",
+    "url": "/Krooppa/static/css/main.f8b3823d.chunk.css"
   },
   {
     "revision": "c3211a8e2138b3bb2d00",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Krooppa/static/js/2.f723cd75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1a75809ddc84d32b773",
-    "url": "/Krooppa/static/js/main.b4425d91.chunk.js"
+    "revision": "f0c8c771a21a8654b6b9",
+    "url": "/Krooppa/static/js/main.d48aa1a1.chunk.js"
   },
   {
     "revision": "9c2f232c4fb4aa62e69c",

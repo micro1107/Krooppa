@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Krooppa/precache-manifest.effbb96b6556361e94a32684736305cd.js"
+  "/Krooppa/precache-manifest.d4fff342255a015a11302cb4daeeec24.js"
 );
 
 self.addEventListener('message', (event) => {
