@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Krooppa/static/css/main.519a88ba.chunk.css",
-    "main.js": "/Krooppa/static/js/main.e8db9a57.chunk.js",
-    "main.js.map": "/Krooppa/static/js/main.e8db9a57.chunk.js.map",
+    "main.js": "/Krooppa/static/js/main.b4425d91.chunk.js",
+    "main.js.map": "/Krooppa/static/js/main.b4425d91.chunk.js.map",
     "runtime-main.js": "/Krooppa/static/js/runtime-main.7f403d2e.js",
     "runtime-main.js.map": "/Krooppa/static/js/runtime-main.7f403d2e.js.map",
     "static/css/2.22d6b5ec.chunk.css": "/Krooppa/static/css/2.22d6b5ec.chunk.css",
     "static/js/2.f723cd75.chunk.js": "/Krooppa/static/js/2.f723cd75.chunk.js",
     "static/js/2.f723cd75.chunk.js.map": "/Krooppa/static/js/2.f723cd75.chunk.js.map",
     "index.html": "/Krooppa/index.html",
-    "precache-manifest.58cd30c12d6e0e82a2c32ec6b2595b59.js": "/Krooppa/precache-manifest.58cd30c12d6e0e82a2c32ec6b2595b59.js",
+    "precache-manifest.effbb96b6556361e94a32684736305cd.js": "/Krooppa/precache-manifest.effbb96b6556361e94a32684736305cd.js",
     "service-worker.js": "/Krooppa/service-worker.js",
     "static/css/2.22d6b5ec.chunk.css.map": "/Krooppa/static/css/2.22d6b5ec.chunk.css.map",
     "static/css/main.519a88ba.chunk.css.map": "/Krooppa/static/css/main.519a88ba.chunk.css.map",
@@ -18,13 +18,13 @@
     "static/media/app-store.svg": "/Krooppa/static/media/app-store.e374ae72.svg",
     "static/media/google-play.svg": "/Krooppa/static/media/google-play.c68e1c2f.svg",
     "static/media/logo-line.svg": "/Krooppa/static/media/logo-line.3edfe43f.svg",
-    "static/media/phonec8.png": "/Krooppa/static/media/phonec8.e55aaab5.png"
+    "static/media/phonec82.png": "/Krooppa/static/media/phonec82.73b31e65.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f403d2e.js",
     "static/css/2.22d6b5ec.chunk.css",
     "static/js/2.f723cd75.chunk.js",
     "static/css/main.519a88ba.chunk.css",
-    "static/js/main.e8db9a57.chunk.js"
+    "static/js/main.b4425d91.chunk.js"
   ]
 }
