@@ -4,9 +4,7 @@ import {SocialMediaIconsReact} from 'social-media-icons-react';
 import logo from './img/logo-line.svg';
 import apple from './img/app-store.svg';
 import android from './img/google-play.svg';
-//import KCarousel from './components/Carousel';
-import phone from './img/phonec82.png';
-//import app from './img/appimgg.gif';
+import phone from './img/phonee.png';
 import './App.css';
 
 function App() {
@@ -15,13 +13,14 @@ function App() {
       <Row>
         <Col xs={6} md={6}>
           <div className="logo">
+            <h1>Krooppa</h1>
             <img className="logo-img" src={logo} alt="krooppa-logo"/>
           </div>
         </Col>
         <Col xs={6} md={6}>
           <div className="social">
-            <SocialMediaIconsReact className="social-icon" borderColor="rgba(0,0,0,0.25)" borderWidth="5" borderStyle="solid" icon="instagram" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(44,164,216,1)" iconSize="5" roundness="50%" url="https://www.instagram.com/julianibarra07/" size="30" />
-            <SocialMediaIconsReact className="social-icon" borderColor="rgba(0,0,0,0.25)" borderWidth="5" borderStyle="solid" icon="facebook" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(44,164,216,1)" iconSize="5" roundness="50%" url="https://www.facebook.com/julianibarra07" size="30" />
+            <SocialMediaIconsReact className="social-icon" borderColor="rgba(0,0,0,0.25)" borderWidth="5" borderStyle="solid" icon="instagram" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(44,164,216,1)" iconSize="5" roundness="50%" url="https://www.instagram.com/krooppa.app/" size="30" />
+            <SocialMediaIconsReact className="social-icon" borderColor="rgba(0,0,0,0.25)" borderWidth="5" borderStyle="solid" icon="facebook" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(44,164,216,1)" iconSize="5" roundness="50%" url="https://www.facebook.com/Krooppa-107644890931234/" size="30" />
           </div>
         </Col>
       </Row>
@@ -59,13 +58,18 @@ function App() {
       <Row>
         <Col xs={6} md={6}>
           <div className="market-apple">
-          <a href="#"><img className="markets-img" src={apple} alt="app-store"/></a>
+          <a href="https://apps.apple.com/co/app/krooppa/id1507643467" target="_blank" ><img className="markets-img" src={apple} alt="app-store"/></a>
           </div>
         </Col>
         <Col xs={6} md={6}>
           <div className="market-google">
             <a href="#"><img className="markets-img" src={android} alt="play-store"/></a>
           </div>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={12}>
+          <footer></footer>
         </Col>
       </Row>
     </Grid>
