@@ -7,7 +7,7 @@
 
 body{
   /*background: url('./img/backgnd2.png') center top;*/
-  background: url('./img/backgnd3.png');
+  background: url('./img/backgnd3.png') no-repeat;
 }
 
 h1{
