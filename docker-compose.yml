@@ -11,4 +11,4 @@ services:
         command: npm start
         tty: true
         build: ./dir
-        image: krooppaweb:tag
+        image: krooppaweb:latest
