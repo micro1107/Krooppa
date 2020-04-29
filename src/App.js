@@ -58,12 +58,12 @@ function App() {
       <Row>
         <Col xs={6} md={6}>
           <div className="market-apple">
-          <a href="https://apps.apple.com/co/app/krooppa/id1507643467" target="_blank" ><img className="markets-img" src={apple} alt="app-store"/></a>
+          <a href="https://apps.apple.com/co/app/krooppa/id1507643467" target="_blank" rel="noopener noreferrer"><img className="markets-img" src={apple} alt="app-store"/></a>
           </div>
         </Col>
         <Col xs={6} md={6}>
           <div className="market-google">
-            <a href="#"><img className="markets-img" src={android} alt="play-store"/></a>
+            <a href="/"><img className="markets-img" src={android} alt="play-store"/></a>
           </div>
         </Col>
       </Row>
