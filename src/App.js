@@ -63,7 +63,7 @@ function App() {
         </Col>
         <Col xs={6} md={6}>
           <div className="market-google">
-            <a href="/"><img className="markets-img" src={android} alt="play-store"/></a>
+            <a href="https://play.google.com/store/apps/details?id=com.krooppa&hl=es_CO"><img className="markets-img" src={android} alt="play-store"/></a>
           </div>
         </Col>
       </Row>
